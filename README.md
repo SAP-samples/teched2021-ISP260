@@ -10,24 +10,38 @@ Explore the power & capabilities of SAP Upscale’s Extensibility Framework with
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+No requirements needed
 
-## Exercises
+## Agenda
+- Attribute Sets
+    - How it works
+	    - Code vs ID
+		- ASD vs ASV
+		- Validations & actions
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+- Styling extension
+    - How it works
+	- Apply styling extension in WB
+	- Edit style - redeploy
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+- Custom Component
+	- How it works
+		- Events (send & receive)
+		- API calls
+		- External Application
+	- Create the configuration
+	- Add it to the experience
 
-  
-**OR** Link to the Tutorial Navigator for example...
+- Native Extension 
+	- How it works
+	- Create configuration
+	- Add to the App / Experience
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
+## Sample extension repository
+
+Here is a repositiory that is available to the public which will contain the examples used in this session
+
+https://github.com/SAP-samples/upscale-commerce-custom-component
 
 **IMPORTANT**
 
