@@ -2,11 +2,11 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2021 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2021 session called ISP260 - Get Hands-On Experience with SAP Upscale Commerce.  
 
 ## Overview
 
-This session introduces attendees to...
+Explore the power & capabilities of SAP Upscale’s Extensibility Framework with a step by step walk through of live storefront extensions. Extension examples will show how to customize the styling of a PWA storefront, building & embedding custom components, and using Upscale micro-service APIs. Participants will be supplied with pre-built samples that illustrate how SAP Upscale Commerce can be extended.
 
 ## Requirements
 
