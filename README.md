@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# ISP260 - Get Hands-On Experience with SAP Upscale Commerce
 
 ## Description
 
