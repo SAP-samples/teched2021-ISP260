@@ -23,6 +23,7 @@ No requirements needed
     - How it works
 	- Apply styling extension in WB
 	- Edit style - redeploy
+    - GitHub repository with samples used in presentation - https://github.com/cmanciero/teched-upscale-2021/
 
 - Custom Component
 	- How it works
