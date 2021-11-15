@@ -23,6 +23,8 @@ No requirements needed
     - How it works
 	- Apply styling extension in WB
 	- Edit style - redeploy
+	- SAP Upscale Commerce User Guide for Style Extensions - https://help.sap.com/viewer/0160c41e0de84b218d05bc1185213d1d/LATEST/en-US/dff01d1e00b34432a2d31a58afa1861b.html
+
     - GitHub repository with samples used in presentation - https://github.com/cmanciero/teched-upscale-2021/
 
 - Custom Component
@@ -32,6 +34,8 @@ No requirements needed
 		- External Application
 	- Create the configuration
 	- Add it to the experience
+	- SAP Upscale Commerce User Guide for Custom Component - https://help.sap.com/viewer/0160c41e0de84b218d05bc1185213d1d/LATEST/en-US/f542f9dc2d744b28b471ca6f044d832c.html
+
 
 - Native Extension 
 	- How it works
