@@ -35,6 +35,7 @@ No requirements needed
 	- Create the configuration
 	- Add it to the experience
 	- SAP Upscale Commerce User Guide for Custom Component - https://help.sap.com/viewer/0160c41e0de84b218d05bc1185213d1d/LATEST/en-US/f542f9dc2d744b28b471ca6f044d832c.html
+	- Sample code on Glitch.com - https://glitch.com/edit/#!/marshy-quiet-cashew?path=script.js%3A9%3A30
 
 
 - Native Extension 
