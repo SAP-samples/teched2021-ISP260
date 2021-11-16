@@ -42,6 +42,10 @@ No requirements needed
 	- How it works
 	- Create configuration
 	- Add to the App / Experience
+	- SAP Upscale Commerce User Guide for Native Extension - https://help.sap.com/viewer/0160c41e0de84b218d05bc1185213d1d/SHIP/en-US/70525bb01aa643ddb506a01366a5a75a.html
+	- Sample code referenced in presentation - https://github.com/cmanciero/teched-upscale-native-ext
+	- Helpful links
+		- How to create an Angular library project - https://angular.io/guide/creating-libraries#getting-started 
 
 ## Sample extension repository
 
