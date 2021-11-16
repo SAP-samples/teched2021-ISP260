@@ -10,7 +10,7 @@ Explore the power & capabilities of SAP Upscale’s Extensibility Framework with
 
 ## Requirements
 
-No requirements needed
+Access to own Upscale PWA and Upscale Workbench environment as well as Git repo to store style changes and native code extensions.
 
 ## Agenda
 - Attribute Sets
