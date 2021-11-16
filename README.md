@@ -1,12 +1,12 @@
-# ISP260 - Get Hands-On Experience with SAP Upscale Commerce
+# ISP260 - Get Experience with SAP Upscale Commerce
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2021 session called ISP260 - Get Hands-On Experience with SAP Upscale Commerce.  
+This repository contains the material for the SAP TechEd 2021 session called ISP260 - Get Experience with SAP Upscale Commerce.  
 
 ## Overview
 
-Explore the power & capabilities of SAP Upscale’s Extensibility Framework with a step by step walk through of live storefront extensions. Extension examples will show how to customize the styling of a PWA storefront, building & embedding custom components, and using Upscale micro-service APIs. Participants will be supplied with pre-built samples that illustrate how SAP Upscale Commerce can be extended.
+View the power & capabilities of SAP Upscale’s Extensibility Framework with a step by step demo of storefront extensions. Extensions will show how to customize the styling of a PWA storefront, building & embedding custom components, and using Upscale micro-service APIs.
 
 ## Requirements
 
