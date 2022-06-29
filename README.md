@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2021-ISP260)](https://api.reuse.software/info/github.com/SAP-samples/teched2021-ISP260)
+
 # ISP260 - Get Experience with SAP Upscale Commerce
 
 ## Description
